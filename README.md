@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelaston-om
+- 👋 Hi, I’m @michaelaston-om (i.e. Michael Aston's One Medical account)
 - 👀 I’m interested in Star Wars, machine learning, finance, epic fantasy, investing, and medical data.
 - 🌱 I’m currently learning Ruby on Rails.
 
